@@ -1,0 +1,63 @@
+/* done */
+.logo{
+    height: 7vh;
+    margin-right: auto;
+  }
+  .col-md-6{
+    text-align: center;
+    padding: 5%;
+    border: 5%;
+    padding-top: 10%;
+  }
+  h1{
+    font-family:cursive;
+    font-weight: 700;
+    margin-left: -40px;
+    border-style:unset;
+    color: black;
+    margin-top: 25px;
+    font-size: 0.80cm;
+    
+
+  }
+  .col-12{
+    color: black;
+    font-family: cursive;
+    font-size: 0.80cm;
+  }
+  .nav-link{
+    color: black;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    font-family:cursive;
+    font-weight: 500;
+    font-size: 0.80cm;
+    margin-left: 100px;
+  }
+
+ 
+  #hom{
+    color: black;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    font-family:cursive;
+    font-weight: 500;
+    font-size: 0.80cm;
+    margin-left: 500px;
+    margin-top: -10px;
+
+  }
+  #sea{
+    color: black;
+    display: flex;
+    align-items: center;
+    color: #000000;
+    font-family:cursive;
+    font-weight: 500;
+    font-size: 0.80cm;
+    margin-left: 50px;
+    margin-top: -10px;
+
+  }

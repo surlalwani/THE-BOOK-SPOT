@@ -1,0 +1,28 @@
+<div class="col">
+
+  <div class="card mb-4 rounded-3 shadow-sm">
+    <div class="card-header py-3">
+      <h1>{{Book.name}}</h1>
+    </div>
+    <div class="card-body">
+
+      <ul class="list-unstyled mt-3 mb-4">
+
+        <li>Key: {{Book.key}}</li> <br>
+
+        <li>Top Work: {{Book.top_work}}</li> <br>
+
+        <li>Work Count: {{Book.work_count}} </li> <br>
+        <div>
+          <li><button (click)="deleteFromFavourite(Book)">Delete</button></li> <br>
+        </div>
+
+
+      </ul>
+      <img src="../../assets/img/login-page-book.webp">
+
+
+    </div>
+  </div>
+
+</div>
